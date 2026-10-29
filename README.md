@@ -10,7 +10,7 @@ Me apasiona la tecnología, la programación y el desarrollo de soluciones infor
 
 ## 👨‍💻 Sobre mí
 
-- 👤 **Nombre:** TU NOMBRE
+- 👤 **Nombre:** Dylan Gonzalez
 - 🎓 **Ciclo formativo finalizado:** Sistemas Microinformáticos y Redes (SMR).
 - 📚 **Estudios actuales:** Desarrollo de Aplicaciones Web (DAW).
 - 🌐 Interesado en el desarrollo web frontend y backend.
@@ -51,8 +51,8 @@ En este perfil encontrarás proyectos académicos y personales relacionados con 
 
 ## 📫 Contacto
 
-- 💼 **GitHub:** [@TU_USUARIO](https://github.com/TU_USUARIO)
-- 📧 **Email:** TU_CORREO
+- 💼 **GitHub:** Paikuan144(https://github.com/TU_USUARIO)
+- 📧 **Email:** Dylangonzalezgarcia6@gmail.com
 
 ---
 
