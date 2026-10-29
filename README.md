@@ -51,7 +51,7 @@ En este perfil encontrarás proyectos académicos y personales relacionados con 
 
 ## 📫 Contacto
 
-- 💼 **GitHub:** Paikuan144(https://github.com/TU_USUARIO)
+- 💼 **GitHub:** Paikuan144 (https://github.com/Paikuan144)
 - 📧 **Email:** Dylangonzalezgarcia6@gmail.com
 
 ---
